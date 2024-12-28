@@ -1,0 +1,122 @@
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Talk Regeln (Erweiterte Version)</title>
+    <style>
+        /* Allgemeine Stilregeln für das Dark-Theme */
+        body {
+            background-color: #121212;
+            color: #E0E0E0;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #1E1E1E;
+            padding: 20px;
+            text-align: center;
+        }
+
+        header h1 {
+            color: #FFEB3B;
+            font-size: 2.5em;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        h2 {
+            color: #FFEB3B;
+        }
+
+        h3 {
+            color: #FFD54F;
+        }
+
+        p {
+            color: #B0BEC5;
+            line-height: 1.6;
+        }
+
+        /* Links im Text */
+        a {
+            color: #FFEB3B;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* Abschnittsunterteilungen */
+        h3, h2 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Talk Regeln (Erweiterte Version)</h1>
+    </header>
+    <main>
+        <h2>1. Verhalten</h2>
+        <h3>Höflichkeit und Respekt</h3>
+        <p>Alle Mitglieder sollten sich nett, freundlich und respektvoll miteinander unterhalten. Es wird erwartet, dass jeder Teilnehmer sich an die grundlegenden Verhaltensnormen hält, die zu einem angenehmen Miteinander beitragen.</p>
+
+        <h3>Beleidigungen</h3>
+        <p>Beleidigungen sind grundsätzlich verboten und können je nach Situation zu Konsequenzen führen. In lockeren, spielerischen Kontexten (z. B. beim Zocken) können humorvolle Bemerkungen gemacht werden, aber stets im Rahmen des respektvollen Umgangs miteinander.</p>
+
+        <h3>Konflikte</h3>
+        <p>Bei Meinungsverschiedenheiten sollte auf eine sachliche und respektvolle Diskussion geachtet werden. Eskalationen sollten vermieden werden. Falls ein Konflikt entsteht, wird empfohlen, diesen privat zu klären oder Moderatoren um Unterstützung zu bitten.</p>
+
+        <h3>Toxisches Verhalten</h3>
+        <p>Toxisches Verhalten, wie ständiges Beschweren, Hohn oder ständige Provokationen, wird nicht toleriert. Jeder sollte zur positiven und angenehmen Atmosphäre im Gespräch beitragen.</p>
+
+        <h2>2. Sounds</h2>
+        <h3>Störende Geräusche</h3>
+        <p>Jegliche störende Geräusche wie Stöhnen, Husten, Rülpsen oder andere unangemessene Geräusche sind zu vermeiden. Diese Geräusche beeinträchtigen das Gespräch und sollten vermieden oder gegebenenfalls in einem privaten Bereich aufgezeichnet werden.</p>
+
+        <h3>Soundboard</h3>
+        <p>Das Verwenden von Soundboards ist erlaubt, solange es die Gesprächsqualität nicht beeinträchtigt und nicht zu übertrieben ist. Lautstärke und Art der Sounds sollten im Rahmen bleiben, um andere nicht zu stören. Übersteuerte oder verzerrte Sounds sind verboten, da sie unangenehm sind.</p>
+
+        <h3>Singen</h3>
+        <p>Singen ist grundsätzlich verboten, da es die Unterhaltung stört und meist nicht zum Thema beiträgt. Ausnahmen gelten nur, wenn Lenny explizit dazu auffordert oder es im Rahmen eines besonderen Events (z. B. Karaoke) gestattet wird.</p>
+
+        <h3>Laute Geräusche</h3>
+        <p>Laute Geräusche, wie plötzliche laute Musik oder Rufe, sind zu unterlassen. Wer laute Geräusche nutzen möchte, sollte sicherstellen, dass sie im richtigen Kontext und ohne die Lautstärke zu übertreiben eingebaut werden.</p>
+
+        <h2>3. Kommunikation</h2>
+        <h3>Spam</h3>
+        <p>Das wiederholte Posten derselben Nachricht oder das Versenden von Spam-Nachrichten ist zu vermeiden. Jeder sollte sicherstellen, dass seine Nachrichten zum Thema beitragen und nicht unnötig den Chat oder die Konversation blockieren.</p>
+
+        <h3>Mikrofon</h3>
+        <p>Ständig eingeschaltete Mikrofone, die Hintergrundgeräusche verursachen, sind zu vermeiden. Nutzer sollten ihr Mikrofon stummschalten, wenn sie nicht sprechen. Falls es technische Probleme gibt, sollte dies gemeldet und nach Lösungen gesucht werden.</p>
+
+        <h3>Privatsphäre</h3>
+        <p>Persönliche Informationen sollten nicht ohne Zustimmung der betroffenen Personen geteilt werden. Der respektvolle Umgang mit der Privatsphäre ist wichtig, um ein angenehmes Umfeld für alle zu garantieren.</p>
+
+        <h3>Sprache</h3>
+        <p>Die verwendete Sprache sollte immer respektvoll und angemessen sein. Rassistische, sexistische oder andere diskriminierende Ausdrücke sind strikt verboten und führen zu sofortigen Konsequenzen.</p>
+
+        <h2>4. Allgemeine Richtlinien</h2>
+        <h3>Verhalten in Gruppen</h3>
+        <p>In größeren Gruppen sollte darauf geachtet werden, dass jeder zu Wort kommt und niemand übergangen wird. Diskussionen sollten offen und inklusiv sein, sodass alle Teilnehmer die Möglichkeit haben, ihre Meinung zu äußern.</p>
+
+        <h3>Moderation</h3>
+        <p>Moderatoren und Admins haben das letzte Wort in strittigen Situationen. Wenn ein Teilnehmer wiederholt gegen die Regeln verstößt, wird er verwarnen oder aus der Unterhaltung ausgeschlossen.</p>
+
+        <h3>Berücksichtigung von Zeit</h3>
+        <p>In längeren Gesprächen sollte auf die Zeit geachtet werden, sodass alle Teilnehmer die Gelegenheit haben, zu sprechen, ohne dass ein Thema zu lange dominiert.</p>
+
+        <h2>Zusammengefasst</h2>
+        <p>Diese erweiterten Regeln helfen dabei, ein respektvolles, angenehmes und reibungsloses Gesprächsklima zu gewährleisten. Jeder sollte aktiv dazu beitragen, dass die Kommunikation harmonisch und freundlich bleibt.</p>
+    </main>
+</body>
+</html>
